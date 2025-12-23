@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Nixbus Turizm</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Nixbus Turizm</h1>
+    <p>Hayalinizdeki yolculuk burada başlar</p>
+</header>
+
+<nav>
+    <a href="#hakkimizda">Hakkımızda</a>
+    <a href="#turlar">Turlar</a>
+    <a href="#iletisim">İletişim</a>
+</nav>
+
+<section id="hakkimizda">
+    <h2>Hakkımızda</h2>
+    <p>Keşif Turizm olarak yurt içi ve yurt dışı unutulmaz seyahatler sunuyoruz.</p>
+</section>
+
+<section id="turlar">
+    <h2>Popüler Turlar</h2>
+    <div class="card">Kapadokya Turu</div>
+    <div class="card">Karadeniz Turu</div>
+    <div class="card">Balkanlar Turu</div>
+</section>
+
+<section id="iletisim">
+    <h2>İletişim</h2>
+    <p>📞 0555 555 55 55</p>
+    <p>📧 info@Nixbus.com</p>
+</section>
+
+<footer>
+    <p>© 2025 Nixbus Turizm</p>
+</footer>
+
+</body>
+</html>
